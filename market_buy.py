@@ -2,7 +2,7 @@
 
 import krakenex
 
-# nouvelle classe API
+# nouvelle classe API 
 k = krakenex.API()
 # appel de la function load_key sur classe k
 k.load_key('kraken.key')
